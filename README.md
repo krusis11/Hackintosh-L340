@@ -5,6 +5,8 @@ EFI for i5-9300h, GTX1650, 16gb RAM and ELAN0626 touchpad
 
 BIOS and UEFI folder paste to efi/drivers folder.
 
+Not working: Intel wifi card lol and of course GTX
+
 Additional files included:
 https://drive.google.com/file/d/1MPjsUP7Gq0F4ehVBPmWQpNjRVG9OB8mT/view?usp=sharing
 
