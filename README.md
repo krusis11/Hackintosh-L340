@@ -1,4 +1,4 @@
-# Hackintosh-L340
+# Hackintosh Lenovo L340
 
 ## System Specification
 
