@@ -1,7 +1,21 @@
 # Hackintosh-L340
-Completed EFI for Lenovo l340.
+## System Specification
 
-EFI for i5-9300h, GTX1650, 16gb RAM and ELAN0626 touchpad
+IdeaPad L340-15IRH Gaming specification:
+
+| Type | Name |
+| --- | --- | 
+| CPU | Intel Core i5-9300H | 
+| Graphics | Intel UHD Graphics 630 + GTX 1650 | 
+| Display | 15.6in FullHD | |
+| RAM | 16GB DDR4 |
+| Wifi| Default Intel Wifi doesn't work. |
+| NVME SSD | 256GB |
+| USB | 2 USB 3.1 + 1 USB 3.1 Type C | 
+| Trackpad | ELAN 0626 |
+| Audio | Realtek ALC 257 |
+| OSX version| Catalina 10.15.4 |
+
 
 BIOS and UEFI folder paste to efi/drivers folder.
 
