@@ -1,4 +1,5 @@
 # Hackintosh-L340
+
 ## System Specification
 
 IdeaPad L340-15IRH Gaming specification:
@@ -16,10 +17,16 @@ IdeaPad L340-15IRH Gaming specification:
 | Audio | Realtek ALC 257 |
 | OSX version| Catalina 10.15.4 |
 
+## Not working?
+
+- GTX 1650 (Disabled)
+- HDMI Port (belongs to GTX 1650)
+- Intel WIFI Card
+
+
 
 BIOS and UEFI folder paste to efi/drivers folder.
 
-Not working: Intel wifi card lol and of course GTX
 
 Additional files included:
 https://drive.google.com/file/d/1MPjsUP7Gq0F4ehVBPmWQpNjRVG9OB8mT/view?usp=sharing
