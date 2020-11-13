@@ -10,7 +10,7 @@ IdeaPad L340-15IRH Gaming specification:
 | Graphics | Intel UHD Graphics 630 + GTX 1650 | 
 | Display | 15.6in FullHD | |
 | RAM | 16GB DDR4 |
-| Wifi| Default Intel Wifi doesn't work. |
+| Wifi| Using intel wifi AC3165 |
 | NVME SSD | 256GB |
 | USB | 2 USB 3.1 + 1 USB 3.1 Type C | 
 | Trackpad | ELAN 0626 |
